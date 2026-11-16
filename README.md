@@ -74,7 +74,7 @@ Abre tu navegador e ingresa a:
 | Rol | Correo | Contraseña |
 | :--- | :--- | :--- |
 | **Administrador** | `admin@domestik.gt` | `Admin123!` |
-| **Cliente** | `cliente@domestik.gt` | `Cliente123!` |
+| **Cliente** | `maria.cliente@gmail.com` | `Cliente123!` |
 
 ---
 
