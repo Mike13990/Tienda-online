@@ -46,28 +46,8 @@ Coloca la carpeta del proyecto dentro del directorio raíz de tu servidor web:
    2. `database/procedures.sql` (Procedimientos almacenados)
    3. `database/seeds.sql` (Datos iniciales de prueba)
 
-### 3. Configurar variables de entorno
-Crea un archivo llamado `.env` en la raíz del proyecto copiando el archivo de ejemplo `.env.example`:
 
-```ini
-DB_HOST=localhost
-DB_NAME=tienda_electrodomesticos
-DB_USER=root
-DB_PASS=
 
-# Configuración SMTP para envío de correos
-SMTP_HOST=smtp.gmail.com
-SMTP_USER=tu_correo@gmail.com
-SMTP_PASS=tu_contraseña_de_aplicacion
-SMTP_PORT=587
-SMTP_SECURE=tls
-```
-
-### 4. Acceder al sistema
-Abre tu navegador e ingresa a:
-`http://localhost/Proyecto_Tienda_online`
-
----
 
 ## Cuentas de Prueba
 
