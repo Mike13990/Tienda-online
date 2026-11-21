@@ -38,15 +38,6 @@ Plataforma de comercio electrónico (E-commerce) desarrollada en **PHP** y **MyS
 Coloca la carpeta del proyecto dentro del directorio raíz de tu servidor web:
 - En XAMPP: `C:/xampp/htdocs/Proyecto_Tienda_online`
 
-### 2. Crear e importar la base de datos
-1. Abre **phpMyAdmin** (`http://localhost/phpmyadmin`).
-2. Crea una nueva base de datos llamada `tienda_electrodomesticos`.
-3. Importa los archivos SQL ubicados en la carpeta `database/` en el siguiente orden:
-   1. `database/schema.sql` (Tablas y estructura)
-   2. `database/procedures.sql` (Procedimientos almacenados)
-   3. `database/seeds.sql` (Datos iniciales de prueba)
-
-
 
 
 ## Cuentas de Prueba
